@@ -4,7 +4,7 @@ Node.js based emailer using MJML & mjml-react
 
 To run, create a .env file with the following:
 
-```
+```ini
 GMAIL_EMAIL=(your gmail)
 GMAIL_APP_PASS=(create a gmail app password)
 
